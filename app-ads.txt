@@ -1,0 +1,2 @@
+# Ad sellers allowed to sell ads in apps by HutStacks (https://iabtechlab.com/ads-txt/).
+google.com, pub-5543083479968175, DIRECT, f08c47fec0942fa0
